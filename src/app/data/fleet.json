@@ -1,0 +1,134 @@
+[
+    {
+        "id": "rolls-royce-ghost",
+        "slug": "rolls-royce-ghost-2024",
+        "brand": "Rolls-Royce",
+        "model": "Ghost",
+        "year": 2024,
+        "type": "Sedan",
+        "price": 1200,
+        "passengers": 5,
+        "transmission": "Automatic",
+        "power": "563 HP",
+        "acceleration": "4.6s",
+        "description": "The purest expression of Rolls-Royce. Ghost is a masterpiece of minimalist luxury, offering an effortless and serene driving experience.",
+        "features": [
+            "Starlight Headliner",
+            "Massage Seats",
+            "Bespoke Audio",
+            "Rear Entertainment"
+        ],
+        "image": "https://images.unsplash.com/photo-1631295868223-63260951cb75?auto=format&fit=crop&q=80&w=1600",
+        "available": true
+    },
+    {
+        "id": "lamborghini-huracan",
+        "slug": "lamborghini-huracan-evo",
+        "brand": "Lamborghini",
+        "model": "Huracán EVO",
+        "year": 2023,
+        "type": "Coupe",
+        "price": 1500,
+        "passengers": 2,
+        "transmission": "Automatic",
+        "power": "631 HP",
+        "acceleration": "2.9s",
+        "description": "Born from racing DNA, the Huracán EVO is the evolution of the most successful V10-powered Lamborghini ever.",
+        "features": [
+            "V10 Engine",
+            "LDS Steering",
+            "Carbon Ceramic Brakes",
+            "Launch Control"
+        ],
+        "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&q=80&w=1600",
+        "available": true
+    },
+    {
+        "id": "mercedes-g63",
+        "slug": "mercedes-amg-g63",
+        "brand": "Mercedes-AMG",
+        "model": "G 63",
+        "year": 2024,
+        "type": "SUV",
+        "price": 950,
+        "passengers": 5,
+        "transmission": "Automatic",
+        "power": "577 HP",
+        "acceleration": "4.5s",
+        "description": "An off-road legend with on-road dominance. The G 63 combines luxury, power, and an iconic design that commands attention.",
+        "features": [
+            "Burmester Sound",
+            "Nappa Leather",
+            "Ambient Lighting",
+            "Off-road Package"
+        ],
+        "image": "https://images.unsplash.com/photo-1520031441872-26514eb62973?auto=format&fit=crop&q=80&w=1600",
+        "available": true
+    },
+    {
+        "id": "porsche-911-gt3",
+        "slug": "porsche-911-gt3",
+        "brand": "Porsche",
+        "model": "911 GT3",
+        "year": 2023,
+        "type": "Coupe",
+        "price": 1100,
+        "passengers": 2,
+        "transmission": "PDK",
+        "power": "502 HP",
+        "acceleration": "3.2s",
+        "description": "The 911 GT3 is a high-performance sports car that's at home on the track as it is on the road.",
+        "features": [
+            "Club Sport Package",
+            "Carbon Bucket Seats",
+            "Front Axle Lift",
+            "Sport Chrono"
+        ],
+        "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&q=80&w=1600",
+        "available": true
+    },
+    {
+        "id": "cadillac-escalade",
+        "slug": "cadillac-escalade-esv",
+        "brand": "Cadillac",
+        "model": "Escalade ESV",
+        "year": 2024,
+        "type": "SUV",
+        "price": 600,
+        "passengers": 7,
+        "transmission": "Automatic",
+        "power": "420 HP",
+        "acceleration": "5.9s",
+        "description": "The ultimate luxury SUV for group travel. Spacious, refined, and equipped with the latest technology.",
+        "features": [
+            "Super Cruise",
+            "OLED Display",
+            "AKG Studio Sound",
+            "Rear Seat Entertainment"
+        ],
+        "image": "https://images.unsplash.com/photo-1632245889029-e413143756f9?auto=format&fit=crop&q=80&w=1600",
+        "available": true
+    },
+    {
+        "id": "ferrari-f8",
+        "slug": "ferrari-f8-tributo",
+        "brand": "Ferrari",
+        "model": "F8 Tributo",
+        "year": 2023,
+        "type": "Coupe",
+        "price": 1400,
+        "passengers": 2,
+        "transmission": "Automatic",
+        "power": "710 HP",
+        "acceleration": "2.9s",
+        "description": "An homage to the most powerful V8 in Ferrari history. The F8 Tributo is a celebration of excellence.",
+        "features": [
+            "Carbon Fiber Interior",
+            "Passenger Display",
+            "JBL Audio",
+            "Lift System"
+        ],
+        "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?auto=format&fit=crop&q=80&w=1600",
+        "available": false
+    }
+]
