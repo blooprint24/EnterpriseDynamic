@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { Menu, X, Car } from "lucide-react";
-import Button from "./ui/Button";
+import Button from "../ui/Button";
 
 export default function Header() {
     const [isScrolled, setIsScrolled] = useState(false);
